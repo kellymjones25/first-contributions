@@ -17,6 +17,7 @@
 - [Kamal Agrahari](https://github.com/ikamalagrahari/)
 - [Mahanthesh S](https://github.com/Mahi2708)
 - [Saimanikanta](https://github.com/saimanikanta1012) - Hello Everyone!
+Kelly Jones
 - [Sudhanshu Raj](https://github.com/SudhanshuRaj0309)
 - [Ali Nasser](https://github.com/AliNasser05)
 - [Aryan Jadhav](https://github.com/AryanJadhav15)
